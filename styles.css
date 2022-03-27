@@ -1,0 +1,23 @@
+h1{
+  color: #FAF3DD;
+ font-family: 'Short Stack', cursive;
+  text-align: center;
+  margin-top: 150px;
+
+}
+body{
+  background-color: #5e6472
+}
+h3{
+  color: #AED9E0;
+  border: .01em solid #FFA69E;
+  text-align: center;
+  font-family: 'Short Stack', cursive;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center{
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
